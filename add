@@ -2,10 +2,10 @@
 #include<conio.h>
 void main
 {
-  int a,b,c;
-scanf("%d",&a);
+  int z,b,c;
+scanf("%d",&z);
 scanf("%d",&b);
-c=a+b;
+c=z+b;
 printf("The output=",c);
 getch()
 }
